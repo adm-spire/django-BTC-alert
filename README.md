@@ -1,1 +1,1 @@
-#Django based Bitcoin price alert system (redis , postgres)
+# Django based Bitcoin price alert system (redis , postgres)
